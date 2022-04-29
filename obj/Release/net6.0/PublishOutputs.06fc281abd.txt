@@ -1,0 +1,7 @@
+C:\Users\Lukuki\Desktop\MyAzureWebapp\bin\Release\net6.0\publish\MyAzureWebapp.exe
+C:\Users\Lukuki\Desktop\MyAzureWebapp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Lukuki\Desktop\MyAzureWebapp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Lukuki\Desktop\MyAzureWebapp\bin\Release\net6.0\publish\MyAzureWebapp.dll
+C:\Users\Lukuki\Desktop\MyAzureWebapp\bin\Release\net6.0\publish\MyAzureWebapp.deps.json
+C:\Users\Lukuki\Desktop\MyAzureWebapp\bin\Release\net6.0\publish\MyAzureWebapp.runtimeconfig.json
+C:\Users\Lukuki\Desktop\MyAzureWebapp\bin\Release\net6.0\publish\MyAzureWebapp.pdb

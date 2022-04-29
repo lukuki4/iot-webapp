@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/fa089156-d039-42d2-a58f-8eb314c2c2a7/resourceGroups/temperaturesensor/providers/Microsoft.Web/sites/lukman25608735webapp"
+}
